@@ -1,0 +1,7 @@
+const name = "Yezid";
+const age = 24;             // change this to your age
+const favoriteLanguage = "JavaScript";
+
+console.log("Name:", name);
+console.log("Age:", age);
+console.log("Favorite Language:", favoriteLanguage);
